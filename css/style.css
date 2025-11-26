@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    background: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+header {
+    background: #4a1415;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+main {
+    width: 90%;
+    margin: auto;
+}
+
+section {
+    background: white;
+    padding: 15px;
+    margin: 0 auto 20px auto;
+    max-width: 400px;
+    border-radius: 5px;
+}
+
+form input,
+form select {
+    width: 90%;
+    margin: 10px auto;
+    display: block;
+}
+
+#listaHistorial table {
+    margin: 0 auto;
+    text-align: center;
+}
